@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://dev2zen.github.io/sitemap.xml
